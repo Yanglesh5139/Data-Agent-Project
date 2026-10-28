@@ -1,0 +1,777 @@
+[
+  {
+    "breed":"Caucasian Shepherd Dog",
+    "health_score":28,
+    "size":"giant"
+  },
+  {
+    "breed":"Presa Canario",
+    "health_score":27,
+    "size":"large"
+  },
+  {
+    "breed":"Cane Corso",
+    "health_score":29,
+    "size":"giant"
+  },
+  {
+    "breed":"Mastiff",
+    "health_score":37,
+    "size":"giant"
+  },
+  {
+    "breed":"Affenpinscher",
+    "health_score":35,
+    "size":"toy"
+  },
+  {
+    "breed":"Bloodhound",
+    "health_score":40,
+    "size":"giant"
+  },
+  {
+    "breed":"Neapolitan Mastiff",
+    "health_score":31,
+    "size":"giant"
+  },
+  {
+    "breed":"St Bernard",
+    "health_score":38,
+    "size":"giant"
+  },
+  {
+    "breed":"Bulldog",
+    "health_score":38,
+    "size":"medium"
+  },
+  {
+    "breed":"French Bulldog",
+    "health_score":38,
+    "size":"small"
+  },
+  {
+    "breed":"Irish Wolfhound",
+    "health_score":41,
+    "size":"giant"
+  },
+  {
+    "breed":"Leonberger",
+    "health_score":45,
+    "size":"giant"
+  },
+  {
+    "breed":"Pharaoh Hound",
+    "health_score":51,
+    "size":"medium"
+  },
+  {
+    "breed":"Anatolian Shepherd",
+    "health_score":47,
+    "size":"giant"
+  },
+  {
+    "breed":"Bernese Mountain Dog",
+    "health_score":44,
+    "size":"giant"
+  },
+  {
+    "breed":"Bullmastiff",
+    "health_score":38,
+    "size":"giant"
+  },
+  {
+    "breed":"Scottish Deerhound",
+    "health_score":48,
+    "size":"giant"
+  },
+  {
+    "breed":"Chinese Shar Pei",
+    "health_score":47,
+    "size":"medium"
+  },
+  {
+    "breed":"Great Dane",
+    "health_score":47,
+    "size":"giant"
+  },
+  {
+    "breed":"Rottweiler",
+    "health_score":53,
+    "size":"large"
+  },
+  {
+    "breed":"Irish Water Spaniel",
+    "health_score":58,
+    "size":"large"
+  },
+  {
+    "breed":"Black Russian Terrier",
+    "health_score":55,
+    "size":"giant"
+  },
+  {
+    "breed":"Great Pyrenees",
+    "health_score":53,
+    "size":"giant"
+  },
+  {
+    "breed":"Newfoundland",
+    "health_score":54,
+    "size":"giant"
+  },
+  {
+    "breed":"Afghan Hound",
+    "health_score":61,
+    "size":"large"
+  },
+  {
+    "breed":"Brittany",
+    "health_score":59,
+    "size":"medium"
+  },
+  {
+    "breed":"Dogue de Bordeaux",
+    "health_score":46,
+    "size":"giant"
+  },
+  {
+    "breed":"Doberman Pinscher",
+    "health_score":58,
+    "size":"large"
+  },
+  {
+    "breed":"Alaskan Malamute",
+    "health_score":63,
+    "size":"large"
+  },
+  {
+    "breed":"American Eskimo Dog",
+    "health_score":63,
+    "size":"small"
+  },
+  {
+    "breed":"Bouvier des Flandres",
+    "health_score":59,
+    "size":"large"
+  },
+  {
+    "breed":"Boxer",
+    "health_score":47,
+    "size":"large"
+  },
+  {
+    "breed":"German Shepherd Dog",
+    "health_score":59,
+    "size":"large"
+  },
+  {
+    "breed":"Akita",
+    "health_score":64,
+    "size":"large"
+  },
+  {
+    "breed":"Greyhound",
+    "health_score":61,
+    "size":"large"
+  },
+  {
+    "breed":"Chesapeake Bay Retriever",
+    "health_score":64,
+    "size":"large"
+  },
+  {
+    "breed":"Pug",
+    "health_score":55,
+    "size":"toy"
+  },
+  {
+    "breed":"Flat Coated Retriever",
+    "health_score":65,
+    "size":"large"
+  },
+  {
+    "breed":"Boston Terrier",
+    "health_score":59,
+    "size":"small"
+  },
+  {
+    "breed":"Cavalier King Charles Spaniel",
+    "health_score":57,
+    "size":"small"
+  },
+  {
+    "breed":"Chihuahua",
+    "health_score":64,
+    "size":"toy"
+  },
+  {
+    "breed":"Siberian Husky",
+    "health_score":68,
+    "size":"medium"
+  },
+  {
+    "breed":"Spinone Italiano",
+    "health_score":65,
+    "size":"large"
+  },
+  {
+    "breed":"Airedale Terrier",
+    "health_score":67,
+    "size":"large"
+  },
+  {
+    "breed":"Belgian Malinois",
+    "health_score":67,
+    "size":"large"
+  },
+  {
+    "breed":"Borzoi",
+    "health_score":64,
+    "size":"large"
+  },
+  {
+    "breed":"Bull Terrier",
+    "health_score":64,
+    "size":"medium"
+  },
+  {
+    "breed":"Canaan Dog",
+    "health_score":67,
+    "size":"medium"
+  },
+  {
+    "breed":"Kelpie",
+    "health_score":68,
+    "size":"medium"
+  },
+  {
+    "breed":"Rhodesian Ridgeback",
+    "health_score":67,
+    "size":"large"
+  },
+  {
+    "breed":"Staffordshire Bull Terrier",
+    "health_score":67,
+    "size":"medium"
+  },
+  {
+    "breed":"Basenji",
+    "health_score":70,
+    "size":"small"
+  },
+  {
+    "breed":"Chow Chow",
+    "health_score":63,
+    "size":"medium"
+  },
+  {
+    "breed":"Giant Schnauzer",
+    "health_score":67,
+    "size":"large"
+  },
+  {
+    "breed":"Glen of Imaal Terrier",
+    "health_score":70,
+    "size":"small"
+  },
+  {
+    "breed":"Old English Sheepdog",
+    "health_score":68,
+    "size":"large"
+  },
+  {
+    "breed":"Curly Coated Retriever",
+    "health_score":71,
+    "size":"large"
+  },
+  {
+    "breed":"Miniature Bull Terrier",
+    "health_score":69,
+    "size":"small"
+  },
+  {
+    "breed":"Pomeranian",
+    "health_score":71,
+    "size":"toy"
+  },
+  {
+    "breed":"Clumber Spaniel",
+    "health_score":70,
+    "size":"medium"
+  },
+  {
+    "breed":"Keeshond",
+    "health_score":70,
+    "size":"medium"
+  },
+  {
+    "breed":"Gordon Setter",
+    "health_score":70,
+    "size":"large"
+  },
+  {
+    "breed":"Kerry Blue Terrier",
+    "health_score":73,
+    "size":"medium"
+  },
+  {
+    "breed":"Skye Terrier",
+    "health_score":68,
+    "size":"small"
+  },
+  {
+    "breed":"American Staffordshire Terrier",
+    "health_score":70,
+    "size":"medium"
+  },
+  {
+    "breed":"Basset Hound",
+    "health_score":70,
+    "size":"medium"
+  },
+  {
+    "breed":"Beagle",
+    "health_score":70,
+    "size":"medium"
+  },
+  {
+    "breed":"Bichon Frise",
+    "health_score":74,
+    "size":"small"
+  },
+  {
+    "breed":"Japanese Chin",
+    "health_score":65,
+    "size":"toy"
+  },
+  {
+    "breed":"Briard",
+    "health_score":73,
+    "size":"large"
+  },
+  {
+    "breed":"Scottish Terrier",
+    "health_score":74,
+    "size":"small"
+  },
+  {
+    "breed":"Dandie Dinmont Terrier",
+    "health_score":75,
+    "size":"small"
+  },
+  {
+    "breed":"Shih Tzu",
+    "health_score":65,
+    "size":"small"
+  },
+  {
+    "breed":"Weimaraner",
+    "health_score":75,
+    "size":"large"
+  },
+  {
+    "breed":"Irish Setter",
+    "health_score":74,
+    "size":"large"
+  },
+  {
+    "breed":"Norwegian Elkhound",
+    "health_score":78,
+    "size":"medium"
+  },
+  {
+    "breed":"Toy Fox Terrier",
+    "health_score":78,
+    "size":"toy"
+  },
+  {
+    "breed":"Foxhound",
+    "health_score":75,
+    "size":"large"
+  },
+  {
+    "breed":"German Wirehaired Pointer",
+    "health_score":78,
+    "size":"large"
+  },
+  {
+    "breed":"Japanese Spitz",
+    "health_score":77,
+    "size":"small"
+  },
+  {
+    "breed":"Portuguese Water Dog",
+    "health_score":75,
+    "size":"medium"
+  },
+  {
+    "breed":"Standard Schnauzer",
+    "health_score":77,
+    "size":"medium"
+  },
+  {
+    "breed":"Toy Manchester Terrier",
+    "health_score":77,
+    "size":"small"
+  },
+  {
+    "breed":"Border Collie",
+    "health_score":78,
+    "size":"medium"
+  },
+  {
+    "breed":"Cardigan Welsh Corgi",
+    "health_score":76,
+    "size":"small"
+  },
+  {
+    "breed":"English Setter",
+    "health_score":79,
+    "size":"large"
+  },
+  {
+    "breed":"Field Spaniel",
+    "health_score":79,
+    "size":"medium"
+  },
+  {
+    "breed":"Labrador Retriever",
+    "health_score":79,
+    "size":"large"
+  },
+  {
+    "breed":"Maltese",
+    "health_score":78,
+    "size":"toy"
+  },
+  {
+    "breed":"Samoyed",
+    "health_score":76,
+    "size":"medium"
+  },
+  {
+    "breed":"Sealyham Terrier",
+    "health_score":79,
+    "size":"small"
+  },
+  {
+    "breed":"Dachshund",
+    "health_score":79,
+    "size":"small"
+  },
+  {
+    "breed":"Dalmatian",
+    "health_score":80,
+    "size":"large"
+  },
+  {
+    "breed":"Golden Retriever",
+    "health_score":79,
+    "size":"large"
+  },
+  {
+    "breed":"Nova Scotia Duck Tolling Retriever",
+    "health_score":79,
+    "size":"medium"
+  },
+  {
+    "breed":"Pembroke Welsh Corgi",
+    "health_score":77,
+    "size":"small"
+  },
+  {
+    "breed":"Polish Lowland Sheepdog",
+    "health_score":80,
+    "size":"medium"
+  },
+  {
+    "breed":"American Cocker Spaniel",
+    "health_score":81,
+    "size":"medium"
+  },
+  {
+    "breed":"Brussels Griffon",
+    "health_score":69,
+    "size":"toy"
+  },
+  {
+    "breed":"Collie",
+    "health_score":81,
+    "size":"large"
+  },
+  {
+    "breed":"English Cocker Spaniel",
+    "health_score":80,
+    "size":"medium"
+  },
+  {
+    "breed":"Jack Russell Terrier",
+    "health_score":81,
+    "size":"small"
+  },
+  {
+    "breed":"Miniature Schnauzer",
+    "health_score":81,
+    "size":"small"
+  },
+  {
+    "breed":"Pekingese",
+    "health_score":71,
+    "size":"toy"
+  },
+  {
+    "breed":"Puli",
+    "health_score":81,
+    "size":"medium"
+  },
+  {
+    "breed":"Saluki",
+    "health_score":78,
+    "size":"large"
+  },
+  {
+    "breed":"Silky Terrier",
+    "health_score":80,
+    "size":"toy"
+  },
+  {
+    "breed":"Tibetan Mastiff",
+    "health_score":79,
+    "size":"giant"
+  },
+  {
+    "breed":"Yorkshire Terrier",
+    "health_score":80,
+    "size":"toy"
+  },
+  {
+    "breed":"Chinese Crested",
+    "health_score":82,
+    "size":"toy"
+  },
+  {
+    "breed":"German Shorthaired Pointer",
+    "health_score":80,
+    "size":"large"
+  },
+  {
+    "breed":"Shetland Sheepdog",
+    "health_score":82,
+    "size":"small"
+  },
+  {
+    "breed":"West Highland White Terrier",
+    "health_score":80,
+    "size":"small"
+  },
+  {
+    "breed":"Whippet",
+    "health_score":80,
+    "size":"medium"
+  },
+  {
+    "breed":"English Springer Spaniel",
+    "health_score":83,
+    "size":"medium"
+  },
+  {
+    "breed":"Irish Terrier",
+    "health_score":81,
+    "size":"medium"
+  },
+  {
+    "breed":"Norfolk Terrier",
+    "health_score":81,
+    "size":"small"
+  },
+  {
+    "breed":"Sussex Spaniel",
+    "health_score":81,
+    "size":"medium"
+  },
+  {
+    "breed":"Vizsla",
+    "health_score":80,
+    "size":"large"
+  },
+  {
+    "breed":"Wire Fox Terrier",
+    "health_score":83,
+    "size":"small"
+  },
+  {
+    "breed":"Australian Shepherd",
+    "health_score":83,
+    "size":"medium"
+  },
+  {
+    "breed":"Bedlington Terrier",
+    "health_score":82,
+    "size":"small"
+  },
+  {
+    "breed":"Miniature Pinscher",
+    "health_score":85,
+    "size":"toy"
+  },
+  {
+    "breed":"Petit Basset Griffon Vendeen",
+    "health_score":83,
+    "size":"small"
+  },
+  {
+    "breed":"Soft Coated Wheaten Terrier",
+    "health_score":80,
+    "size":"medium"
+  },
+  {
+    "breed":"Spanish Water Dog",
+    "health_score":85,
+    "size":"medium"
+  },
+  {
+    "breed":"Belgian Tervuren",
+    "health_score":84,
+    "size":"large"
+  },
+  {
+    "breed":"Bracco Italiano",
+    "health_score":86,
+    "size":"large"
+  },
+  {
+    "breed":"Finnish Lapphund",
+    "health_score":86,
+    "size":"medium"
+  },
+  {
+    "breed":"Parson Russell Terrier",
+    "health_score":86,
+    "size":"small"
+  },
+  {
+    "breed":"Tibetan Terrier",
+    "health_score":86,
+    "size":"medium"
+  },
+  {
+    "breed":"Welsh Terrier",
+    "health_score":84,
+    "size":"small"
+  },
+  {
+    "breed":"Bearded Collie",
+    "health_score":85,
+    "size":"medium"
+  },
+  {
+    "breed":"Lowchen",
+    "health_score":87,
+    "size":"small"
+  },
+  {
+    "breed":"Australian Cattle Dog",
+    "health_score":88,
+    "size":"medium"
+  },
+  {
+    "breed":"Cairn Terrier",
+    "health_score":86,
+    "size":"small"
+  },
+  {
+    "breed":"German Spitz Mittel",
+    "health_score":86,
+    "size":"small"
+  },
+  {
+    "breed":"Italian Greyhound",
+    "health_score":88,
+    "size":"toy"
+  },
+  {
+    "breed":"Lhasa Apso",
+    "health_score":77,
+    "size":"small"
+  },
+  {
+    "breed":"Miniature Dachshund",
+    "health_score":86,
+    "size":"small"
+  },
+  {
+    "breed":"Norwich Terrier",
+    "health_score":84,
+    "size":"small"
+  },
+  {
+    "breed":"Poodle",
+    "health_score":88,
+    "size":"toy"
+  },
+  {
+    "breed":"Swedish Vallhund",
+    "health_score":86,
+    "size":"small"
+  },
+  {
+    "breed":"Welsh Springer Spaniel",
+    "health_score":86,
+    "size":"medium"
+  },
+  {
+    "breed":"Large Munsterlander",
+    "health_score":89,
+    "size":"large"
+  },
+  {
+    "breed":"Border Terrier",
+    "health_score":90,
+    "size":"small"
+  },
+  {
+    "breed":"Coton de Tulear",
+    "health_score":90,
+    "size":"small"
+  },
+  {
+    "breed":"Lakeland Terrier",
+    "health_score":90,
+    "size":"small"
+  },
+  {
+    "breed":"Schipperke",
+    "health_score":90,
+    "size":"small"
+  },
+  {
+    "breed":"Havanese",
+    "health_score":92,
+    "size":"small"
+  },
+  {
+    "breed":"Papillon",
+    "health_score":92,
+    "size":"toy"
+  },
+  {
+    "breed":"Shiba Inu",
+    "health_score":93,
+    "size":"small"
+  },
+  {
+    "breed":"Bolognese",
+    "health_score":97,
+    "size":"toy"
+  },
+  {
+    "breed":"Tibetan Spaniel",
+    "health_score":95,
+    "size":"small"
+  },
+  {
+    "breed":"Lancashire Heeler",
+    "health_score":98,
+    "size":"small"
+  }
+]

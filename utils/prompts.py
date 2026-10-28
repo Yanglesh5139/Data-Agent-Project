@@ -44,6 +44,7 @@ Set answer to "Yes" if safe, otherwise "No", and provide a comment explaining yo
 """
 
 FINAL_ANSWER_PROMPT = """\
+
 You are an SQL analyst agent. Based on the SQL execution result and the user's \
 original question, produce a concise, user-friendly answer.
 
@@ -57,3 +58,31 @@ Execution Result:
 User's Original Question:
 {curated_query}
 """
+TRANSFORM_LOAD_PROMPT = """\
+You are a Python data analyst who uses pandas to perform ETL transformations. Provide only executable Python code with no comments, explanations, or markdown formatting.
+
+Requirements:
+- pandas is already installed
+- Read the input data from `{input_file_path}` into a DataFrame
+- Apply the transformations specified in the user's question below
+- Save the transformed data to `{output_folder}`
+- Ensure the output format is `{format}` (e.g., CSV, JSON, Parquet)
+
+Context provided:
+- Input file path: {input_file_path}
+- Output folder: {output_folder}
+- User's transformation request: {user_question}
+- Top 5 sample rows from the input data:
+{top_5_rows}
+
+Instructions:
+- Output ONLY the Python code block, ready to execute
+- Do not include any comments, docstrings, or explanatory text
+- Use pandas idioms and handle the transformation exactly as requested
+- Ensure the output is saved correctly to the specified folder (create the folder if it doesn't exist)
+- Make sure that the output format is consistent with the user's request (e.g., CSV, JSON, Parquet)
+
+Now generate the code based on the above context."""
+
+LLM_TOOL_PROMPT = """\
+You are an Python data analyst agent. You have access to the  tools which can extract, transform, and load data. You will be provided with a user's question and the context of the data. Your task is to determine which tool to use, provide the necessary parameters, and execute the tool to fulfill the user's request and once the operation is completed. Be mindful of the input and output storage and formats that is being asked by the user. Then inform the user and end the coversation Here is the chat History {messages}\n"""
