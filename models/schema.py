@@ -34,4 +34,9 @@ class SQLGenerationSchema(BaseModel):
         ...,
         description="A single, complete PostgreSQL SELECT statement. No markdown, no prose.",
     )
-    
+
+class ETLGenerationSchema(BaseModel):
+    messages: Annotated[list[BaseMessage], add_messages] = Field(
+            default_factory=list,
+            description="Conversation history with the agent.",
+        )
