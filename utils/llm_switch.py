@@ -68,7 +68,3 @@ def switch_llm(
 reload_environment()
 
 
-if __name__ == "__main__":
-    llm_obj = switch_llm("low", force_refresh=True)
-    response = llm_obj.invoke("What is the capital of Italy?")
-    print(response.content)
