@@ -311,16 +311,6 @@ class ETLTools:
 
         return "Code executed successfully."
 
-if __name__ == "__main__":
-    etl = ETLTools()
-    # Example 1: single URL, drill into the "breeds" key
-    result = etl.extract_load(
-        url=["https://breedhealthscore.com/api/breeds.json"],
-        output_path="data/extracted",
-        format="csv",
-        mode="overwrite"
-    )
-    print(etl.transform_load_context("data/extracted/breeds_0.csv"))
 
 
    
